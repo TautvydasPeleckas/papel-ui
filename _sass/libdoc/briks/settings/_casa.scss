@@ -183,10 +183,10 @@ $briks-fonts: (
     ),
     lead-2: (
         type:        'local',
-        filename:    'BebasNeue-Regular',
-        name:        'BebasNeue-Regular',
+        filename:    'Tungsten-Semibold',
+        name:        'Tungsten-Semibold',
         weight:      600,
-        path:        '../fonts/bebas-neue/',
+        path:        '../fonts/tungsten-semibold/',
         fallback:    'sans-serif'
     ),
 );
@@ -228,7 +228,8 @@ $briks-font-sizes: (
     md:     12,
     lg:     20,
     xl:     24,
-    xxl:    50
+    xxl:    80,
+    xxll:   45,
 );
 
 /*
