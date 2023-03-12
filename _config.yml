@@ -145,7 +145,7 @@ prism:
     # coy, dark, funky, okaidia, twilight, solarizedlight, tomorrow, 
     theme: tomorrow
     # CSS font-size property override for <code>
-    font_size: 0.9em
+    font_size: 0.7em
     # CSS line-height property override for <code>
     # line_height: 1em
     # Uncomment lines to enable language
