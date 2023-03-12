@@ -175,18 +175,18 @@ $briks-screen-sizes: (
 $briks-fonts: (
     lead: (
         type:        'local',
-        filename:    'compacta_bold-webfont',
-        name:        'compacta_bold-webfont',
+        filename:    'BebasNeue-Regular',
+        name:        'BebasNeue-Regular',
         weight:      700,
-        path:        '../fonts/compacta-bold/',
+        path:        '../fonts/bebas-neue/',
         fallback:    'sans-serif'
     ),
     lead-2: (
         type:        'local',
-        filename:    'Tungsten-Semibold',
-        name:        'Tungsten-Semibold',
+        filename:    'BebasNeue-Regular',
+        name:        'BebasNeue-Regular',
         weight:      600,
-        path:        '../fonts/tungsten-semibold/',
+        path:        '../fonts/bebas-neue/',
         fallback:    'sans-serif'
     ),
 );
